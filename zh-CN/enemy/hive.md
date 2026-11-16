@@ -4,7 +4,7 @@ description: 魔族巢穴，扎根地面后，会有小型魔族从中钻出。
 published: true
 date: '2026-04-06T04:31:06.574Z'
 tags:
-  - enemy
+  - 魔族
 editor: markdown
 dateCreated: '2026-03-27T16:59:31.092Z'
 ---

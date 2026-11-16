@@ -4,9 +4,9 @@ description: 随处可见的矿物，跟石英区别不大。但是姐姐似乎�
 published: true
 date: '2025-07-15T03:57:48.941Z'
 tags:
-  - item
-  - item-minerals
-  - item-material
+  - 物品
+  - 珠宝矿石
+  - 素材
 editor: markdown
 dateCreated: '2025-07-15T03:46:29.494Z'
 ---

@@ -4,8 +4,8 @@ description: ''
 published: true
 date: '2026-04-08T15:37:41.196Z'
 tags:
-  - enemy
-  - enemy-boss
+  - 魔族
+  - BOSS魔族
 editor: markdown
 dateCreated: '2026-04-01T13:48:24.529Z'
 ---

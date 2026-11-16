@@ -4,7 +4,7 @@ description: 在森林中划地为王的稀有魔族。
 published: true
 date: '2026-03-31T10:36:16.855Z'
 tags:
-  - enemy
+  - 魔族
 editor: markdown
 dateCreated: '2024-04-29T10:08:37.756Z'
 ---

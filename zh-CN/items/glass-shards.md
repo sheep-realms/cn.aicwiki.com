@@ -4,8 +4,8 @@ description: 透明且坚硬的碎片。一部分魔族会在其内骨骼中生�
 published: true
 date: '2025-07-15T04:14:32.047Z'
 tags:
-  - item
-  - item-material
+  - 物品
+  - 素材
 editor: markdown
 dateCreated: '2025-07-15T04:14:29.797Z'
 ---

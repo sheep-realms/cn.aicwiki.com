@@ -4,8 +4,8 @@ description: 用于记录在地图上标注的信息的附加设备。只要有�
 published: true
 date: '2025-04-25T07:00:19.013Z'
 tags:
-  - item
-  - item-precious-item
+  - 物品
+  - 重要物品
 editor: markdown
 dateCreated: '2024-05-06T05:02:35.489Z'
 ---

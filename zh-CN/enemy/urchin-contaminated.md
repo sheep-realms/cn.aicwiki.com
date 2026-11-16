@@ -4,8 +4,8 @@ description: 变为污染体后身体十分沉重无法再漂浮，因此只能�
 published: true
 date: '2026-03-31T11:42:32.582Z'
 tags:
-  - enemy
-  - enemy-contaminated
+  - 魔族
+  - 污染体魔族
 editor: markdown
 dateCreated: '2024-04-30T04:21:58.678Z'
 ---

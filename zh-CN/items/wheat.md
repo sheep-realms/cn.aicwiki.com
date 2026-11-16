@@ -4,9 +4,9 @@ description: 地上城市以这种植物作为主食。可作为便携食品的�
 published: true
 date: '2025-04-25T06:47:26.043Z'
 tags:
-  - item
-  - item-food
-  - item-grain
+  - 物品
+  - 食材
+  - 谷物
 editor: markdown
 dateCreated: '2024-01-29T19:15:34.181Z'
 ---

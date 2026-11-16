@@ -4,7 +4,7 @@ description: Alice in Cradle 存档目录信息说明
 published: true
 date: '2026-09-23T07:52:04.012Z'
 tags:
-  - gameplay
+  - 游戏机制
 editor: markdown
 dateCreated: '2026-09-23T07:52:01.606Z'
 ---

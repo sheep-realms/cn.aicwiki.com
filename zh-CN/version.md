@@ -4,7 +4,7 @@ description: 记录了各个版本的发布日期
 published: true
 date: '2026-10-05T06:22:23.758Z'
 tags:
-  - gameplay
+  - 游戏机制
 editor: markdown
 dateCreated: '2024-01-29T19:07:22.980Z'
 ---

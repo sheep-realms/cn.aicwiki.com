@@ -4,7 +4,7 @@ description: 加入公会并接取委托的游戏玩法
 published: true
 date: '2026-03-03T21:13:40.410Z'
 tags:
-  - gameplay
+  - 游戏机制
 editor: markdown
 dateCreated: '2025-02-21T14:19:23.160Z'
 ---

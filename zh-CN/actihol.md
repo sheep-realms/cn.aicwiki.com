@@ -4,7 +4,7 @@ description: 一种使用酿造桶制作的饮品
 published: true
 date: '2024-09-15T16:15:41.845Z'
 tags:
-  - gameplay
+  - 游戏机制
 editor: markdown
 dateCreated: '2024-05-11T09:51:18.943Z'
 ---

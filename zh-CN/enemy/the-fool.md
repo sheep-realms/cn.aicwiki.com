@@ -4,7 +4,7 @@ description: 学习并复现了第一世代魔法「雷霆电击」，只会在�
 published: true
 date: '2026-03-30T20:42:11.540Z'
 tags:
-  - enemy
+  - 魔族
 editor: markdown
 dateCreated: '2024-04-29T10:49:15.672Z'
 ---

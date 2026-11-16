@@ -4,7 +4,7 @@ description: 以沼泽为领地的稀有魔族。
 published: true
 date: '2026-03-27T14:47:05.153Z'
 tags:
-  - enemy
+  - 魔族
 editor: markdown
 dateCreated: '2024-04-29T12:58:10.435Z'
 ---

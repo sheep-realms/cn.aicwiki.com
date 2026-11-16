@@ -4,11 +4,11 @@ description: 喝了之后能让心情变得舒畅一点。调制完毕后需要�
 published: true
 date: '2025-04-25T07:02:01.077Z'
 tags:
-  - item-calms-ep
-  - item
-  - item-food
-  - item-healing
-  - item-water
+  - 兴奋率相关
+  - 物品
+  - 食材
+  - 保健品
+  - 液体
 editor: markdown
 dateCreated: '2024-01-29T19:14:49.774Z'
 ---

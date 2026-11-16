@@ -4,8 +4,8 @@ description: 物品标签目录
 published: true
 date: '2025-07-15T04:17:05.441Z'
 tags:
-  - gameplay
-  - index
+  - 游戏机制
+  - 索引
 editor: markdown
 dateCreated: '2024-01-29T19:08:32.726Z'
 ---

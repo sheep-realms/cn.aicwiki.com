@@ -4,7 +4,7 @@ description: 一种使用工作台制作升级物件的方法
 published: true
 date: '2024-09-15T16:16:34.215Z'
 tags:
-  - gameplay
+  - 游戏机制
 editor: markdown
 dateCreated: '2024-05-11T09:30:21.121Z'
 ---

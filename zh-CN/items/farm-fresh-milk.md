@@ -4,13 +4,13 @@ description: 牛奶这种东西就是要45度角叉着腰把仰望天空的pose�
 published: true
 date: '2025-07-15T02:05:13.126Z'
 tags:
-  - item
-  - item-food
-  - item-healing
-  - item-heals-hp
-  - item-water
-  - item-milk
-  - item-recovers-mp
+  - 物品
+  - 食材
+  - 保健品
+  - HP恢复
+  - 液体
+  - 乳品
+  - 物品-recovers-mp
 editor: markdown
 dateCreated: '2025-07-14T10:51:17.564Z'
 ---

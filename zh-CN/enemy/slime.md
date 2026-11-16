@@ -4,7 +4,7 @@ description: 原始的魔族。
 published: true
 date: '2026-03-27T10:37:06.615Z'
 tags:
-  - enemy
+  - 魔族
 editor: markdown
 dateCreated: '2024-03-01T07:42:39.673Z'
 ---

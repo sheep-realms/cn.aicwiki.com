@@ -4,7 +4,7 @@ description: 全身覆盖着尖刺的魔族。
 published: true
 date: '2026-03-26T14:20:24.475Z'
 tags:
-  - enemy
+  - 魔族
 editor: markdown
 dateCreated: '2024-04-29T09:14:04.114Z'
 ---

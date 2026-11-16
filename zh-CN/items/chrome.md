@@ -4,9 +4,9 @@ description: 古代的人们似乎跟我们一样，也曾用这种金属构建�
 published: true
 date: '2025-07-15T04:02:39.698Z'
 tags:
-  - item
-  - item-minerals
-  - item-material
+  - 物品
+  - 珠宝矿石
+  - 素材
 editor: markdown
 dateCreated: '2025-07-15T03:52:24.956Z'
 ---

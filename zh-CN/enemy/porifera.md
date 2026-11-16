@@ -4,7 +4,7 @@ description: 在枝杈末梢的黑色球体中储存大量魔力的魔族。
 published: true
 date: '2026-03-26T14:14:20.490Z'
 tags:
-  - enemy
+  - 魔族
 editor: markdown
 dateCreated: '2024-04-29T07:01:33.427Z'
 ---

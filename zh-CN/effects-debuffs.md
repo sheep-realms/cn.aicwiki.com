@@ -4,7 +4,7 @@ description: 在战斗等事件中获取的大多为负面的状态效果。
 published: true
 date: '2026-04-11T19:15:29.017Z'
 tags:
-  - gameplay
+  - 游戏机制
 editor: markdown
 dateCreated: '2024-01-29T18:17:50.485Z'
 ---

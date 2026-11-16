@@ -4,7 +4,7 @@ description: 栖息在山中的魔族。体型不大，但其口器却足以将�
 published: true
 date: '2026-03-27T14:50:19.593Z'
 tags:
-  - enemy
+  - 魔族
 editor: markdown
 dateCreated: '2026-03-27T14:50:17.295Z'
 ---

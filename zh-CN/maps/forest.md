@@ -4,7 +4,7 @@ description: 包含森林、荆棘与许多魔族的野外区域。
 published: true
 date: '2026-08-29T13:53:38.462Z'
 tags:
-  - map
+  - 地图
 editor: markdown
 dateCreated: '2026-02-20T06:01:34.419Z'
 ---

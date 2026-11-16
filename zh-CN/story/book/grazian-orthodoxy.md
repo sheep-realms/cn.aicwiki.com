@@ -4,7 +4,7 @@ description: ''
 published: true
 date: '2025-07-23T08:52:09.985Z'
 tags:
-  - book
+  - 书籍
 editor: markdown
 dateCreated: '2025-07-15T13:01:30.747Z'
 ---

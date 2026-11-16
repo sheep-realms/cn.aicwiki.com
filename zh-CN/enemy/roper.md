@@ -4,7 +4,7 @@ description: 栖息在山中的魔族。细长的身体中伸出的无数触手�
 published: true
 date: '2026-03-27T14:25:57.516Z'
 tags:
-  - enemy
+  - 魔族
 editor: markdown
 dateCreated: '2026-03-27T14:25:55.147Z'
 ---

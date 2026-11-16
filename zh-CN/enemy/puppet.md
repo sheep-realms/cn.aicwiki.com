@@ -4,7 +4,7 @@ description: 主要栖息在废弃矿道中的群居性魔族。
 published: true
 date: '2026-03-26T11:17:51.893Z'
 tags:
-  - enemy
+  - 魔族
 editor: markdown
 dateCreated: '2024-04-28T11:21:35.486Z'
 ---

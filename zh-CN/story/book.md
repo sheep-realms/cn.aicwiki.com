@@ -4,7 +4,7 @@ description: 收录天空设施图书馆中书籍。
 published: true
 date: '2025-07-23T08:55:38.248Z'
 tags:
-  - index
+  - 索引
 editor: markdown
 dateCreated: '2025-07-15T13:04:55.575Z'
 ---

@@ -4,8 +4,8 @@ description: 因暴露在魔力环境下而腐烂的食物。已经不能吃了�
 published: true
 date: '2024-05-12T14:10:41.908Z'
 tags:
-  - item
-  - item-junk
+  - 物品
+  - 废品
 editor: markdown
 dateCreated: '2024-01-29T19:11:21.372Z'
 ---

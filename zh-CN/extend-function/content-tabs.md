@@ -4,7 +4,7 @@ description: 在页面中插入标签页
 published: true
 date: '2024-02-21T21:56:26.950Z'
 tags:
-  - wiki-guide
+  - 百科指南
 editor: markdown
 dateCreated: '2024-02-03T06:41:34.520Z'
 ---

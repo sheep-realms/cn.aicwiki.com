@@ -4,7 +4,7 @@ description: 隐藏于游戏中的彩蛋
 published: true
 date: '2025-07-20T07:04:31.624Z'
 tags:
-  - gameplay
+  - 游戏机制
 editor: markdown
 dateCreated: '2024-01-29T18:23:32.002Z'
 ---

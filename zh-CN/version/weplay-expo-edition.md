@@ -4,7 +4,7 @@ description: 在 WePlay Expo 2025 上的 B29 展位参展的版本。
 published: true
 date: '2025-11-22T19:41:13.732Z'
 tags:
-  - game-version
+  - 游戏版本
 editor: markdown
 dateCreated: '2025-11-22T09:15:55.459Z'
 ---

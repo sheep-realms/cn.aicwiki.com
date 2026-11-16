@@ -4,7 +4,7 @@ description: 栖息在山中的蠕虫状魔族，个体相当脆弱。
 published: true
 date: '2026-03-30T19:16:15.547Z'
 tags:
-  - enemy
+  - 魔族
 editor: markdown
 dateCreated: '2026-03-30T19:16:13.287Z'
 ---

@@ -4,8 +4,8 @@ description: 魔族的表皮。对魔力有优秀的阻隔能力。
 published: true
 date: '2025-07-15T04:06:36.766Z'
 tags:
-  - item
-  - item-material
+  - 物品
+  - 素材
 editor: markdown
 dateCreated: '2025-07-15T04:06:34.553Z'
 ---

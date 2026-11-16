@@ -4,7 +4,7 @@ description: 施展法术所使用的武器
 published: true
 date: '2026-09-11T18:34:47.706Z'
 tags:
-  - gameplay
+  - 游戏机制
 editor: markdown
 dateCreated: '2025-07-23T08:10:43.760Z'
 ---

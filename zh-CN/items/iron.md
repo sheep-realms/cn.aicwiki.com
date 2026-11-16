@@ -4,9 +4,9 @@ description: 人们口中常说的铁矿石。
 published: true
 date: '2025-07-15T04:02:13.581Z'
 tags:
-  - item
-  - item-minerals
-  - item-material
+  - 物品
+  - 珠宝矿石
+  - 素材
 editor: markdown
 dateCreated: '2025-07-15T03:39:22.029Z'
 ---

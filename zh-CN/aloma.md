@@ -4,7 +4,7 @@ description: 进行休息室剧情所必要的步骤
 published: true
 date: '2024-09-15T16:17:23.259Z'
 tags:
-  - gameplay
+  - 游戏机制
 editor: markdown
 dateCreated: '2024-05-11T10:28:52.495Z'
 ---

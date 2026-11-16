@@ -4,7 +4,7 @@ description: 这一魔族生物具有六边形巢穴的结构，其中栖息着�
 published: true
 date: '2026-03-30T18:26:59.774Z'
 tags:
-  - enemy
+  - 魔族
 editor: markdown
 dateCreated: '2026-03-30T18:11:37.937Z'
 ---

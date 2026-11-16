@@ -4,9 +4,9 @@ description: 就是块略带闪耀光泽的石头。
 published: true
 date: '2025-07-15T04:01:47.147Z'
 tags:
-  - item
-  - item-crafting
-  - item-material
+  - 物品
+  - 工艺原料
+  - 素材
 editor: markdown
 dateCreated: '2025-07-15T02:48:29.994Z'
 ---

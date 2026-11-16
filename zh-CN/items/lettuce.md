@@ -4,9 +4,9 @@ description: 绿油油的鲜嫩蔬菜。
 published: true
 date: '2024-05-12T14:10:05.679Z'
 tags:
-  - item
-  - item-food
-  - item-vegetable
+  - 物品
+  - 食材
+  - 蔬菜
 editor: markdown
 dateCreated: '2024-01-29T19:14:21.819Z'
 ---

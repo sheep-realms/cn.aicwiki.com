@@ -4,9 +4,9 @@ description: ……疼死了。只要未陷入无法战斗的状态，便可安�
 published: true
 date: '2024-05-12T14:12:01.551Z'
 tags:
-  - item-egg
-  - item
-  - item-made-in-noel
+  - 蛋类
+  - 物品
+  - 诺艾儿自产
 editor: markdown
 dateCreated: '2024-05-04T06:51:53.879Z'
 ---

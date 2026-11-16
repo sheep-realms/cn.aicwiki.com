@@ -4,7 +4,7 @@ description: 能以四足吸附在墙面上奔跑的魔族。
 published: true
 date: '2026-03-26T17:31:44.749Z'
 tags:
-  - enemy
+  - 魔族
 editor: markdown
 dateCreated: '2024-04-29T09:30:50.365Z'
 ---

@@ -4,7 +4,7 @@ description: 一种可以制作各种冒险所需的消耗品或容器的方法
 published: true
 date: '2026-08-13T06:51:09.370Z'
 tags:
-  - gameplay
+  - 游戏机制
 editor: markdown
 dateCreated: '2024-05-11T09:40:09.328Z'
 ---

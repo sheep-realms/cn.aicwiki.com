@@ -4,11 +4,11 @@ description: 吃下去可以恢复一些体力。这种水果不但吃起来很�
 published: true
 date: '2025-04-25T06:31:22.938Z'
 tags:
-  - item
-  - item-food
-  - item-healing
-  - item-fruit
-  - item-heals-hp
+  - 物品
+  - 食材
+  - 保健品
+  - 水果
+  - HP恢复
 editor: markdown
 dateCreated: '2024-01-29T19:12:30.417Z'
 ---

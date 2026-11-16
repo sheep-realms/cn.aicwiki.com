@@ -4,8 +4,8 @@ description: ''
 published: true
 date: '2026-04-01T16:54:56.668Z'
 tags:
-  - enemy
-  - enemy-special
+  - 魔族
+  - 特殊魔族
 editor: markdown
 dateCreated: '2024-09-17T14:54:48.297Z'
 ---

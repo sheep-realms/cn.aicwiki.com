@@ -4,7 +4,7 @@ description: Alice In Cradle 操作说明
 published: true
 date: '2026-02-25T06:23:54.822Z'
 tags:
-  - gameplay
+  - 游戏机制
 editor: markdown
 dateCreated: '2024-01-29T15:27:25.815Z'
 ---

@@ -4,8 +4,8 @@ description: 「只要用了由这种药草提炼而成的精油，整个人都�
 published: true
 date: '2024-05-12T14:12:33.435Z'
 tags:
-  - item
-  - item-material
+  - 物品
+  - 素材
 editor: markdown
 dateCreated: '2024-01-29T19:16:13.701Z'
 ---

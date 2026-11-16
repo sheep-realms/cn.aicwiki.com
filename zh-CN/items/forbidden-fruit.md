@@ -4,10 +4,10 @@ description: 形状奇妙的苹果。或许跟古老的神话有着一些联系�
 published: true
 date: '2025-07-15T13:18:40.106Z'
 tags:
-  - item
-  - item-food
-  - item-fruit
-  - item-calms-ep
+  - 物品
+  - 食材
+  - 水果
+  - 兴奋率相关
 editor: markdown
 dateCreated: '2025-07-14T10:10:22.039Z'
 ---

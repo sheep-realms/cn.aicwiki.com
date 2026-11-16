@@ -4,8 +4,8 @@ description: 体型更为巨大，且手里的投石器也换成了巨大的棍�
 published: true
 date: '2026-03-31T10:39:29.405Z'
 tags:
-  - enemy
-  - enemy-contaminated
+  - 魔族
+  - 污染体魔族
 editor: markdown
 dateCreated: '2024-04-30T02:59:17.264Z'
 ---

@@ -4,7 +4,7 @@ description: 包含矿井和工业设施的野外区域。
 published: true
 date: '2026-09-16T04:58:07.250Z'
 tags:
-  - map
+  - 地图
 editor: markdown
 dateCreated: '2026-02-20T06:09:42.404Z'
 ---

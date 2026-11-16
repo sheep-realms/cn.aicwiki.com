@@ -4,7 +4,7 @@ description: Alice In Cradle 中所出现的原创音乐
 published: true
 date: '2026-08-29T18:11:39.286Z'
 tags:
-  - gameplay
+  - 游戏机制
 editor: markdown
 dateCreated: '2024-01-29T18:29:14.198Z'
 ---

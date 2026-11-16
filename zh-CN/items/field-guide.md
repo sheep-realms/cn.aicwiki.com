@@ -4,8 +4,8 @@ description: 姐姐赠送的附带资质证明的图鉴。收录了已取得的�
 published: true
 date: '2024-05-12T14:09:39.507Z'
 tags:
-  - item
-  - item-precious-item
+  - 物品
+  - 重要物品
 editor: markdown
 dateCreated: '2024-05-06T04:44:16.133Z'
 ---

@@ -4,7 +4,7 @@ description: 身上缠绕着大量蠕虫型幼体，四处奔跑的魔族。
 published: true
 date: '2026-03-26T11:01:57.698Z'
 tags:
-  - enemy
+  - 魔族
 editor: markdown
 dateCreated: '2024-04-29T07:20:12.079Z'
 ---

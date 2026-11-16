@@ -4,7 +4,7 @@ description: 关于游戏内的架空文字
 published: true
 date: '2026-02-28T18:33:06.932Z'
 tags:
-  - world-outlook
+  - 世界观
 editor: markdown
 dateCreated: '2025-07-20T07:01:38.240Z'
 ---

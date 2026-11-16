@@ -4,8 +4,8 @@ description: 不仅吸取了大量魔力，还完全没有理智可言。
 published: true
 date: '2026-03-31T10:11:41.444Z'
 tags:
-  - enemy
-  - enemy-contaminated
+  - 魔族
+  - 污染体魔族
 editor: markdown
 dateCreated: '2024-03-01T07:51:03.528Z'
 ---

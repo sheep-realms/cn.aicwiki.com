@@ -4,9 +4,9 @@ description: 因为会弄脏手所以不太想碰，但要使用炼金术就绝�
 published: true
 date: '2025-07-15T03:59:00.851Z'
 tags:
-  - item
-  - item-crafting
-  - item-material
+  - 物品
+  - 工艺原料
+  - 素材
 editor: markdown
 dateCreated: '2024-05-05T15:38:11.202Z'
 ---

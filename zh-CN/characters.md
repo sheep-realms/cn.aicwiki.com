@@ -4,7 +4,7 @@ description: Alice In Cradle 登场角色
 published: true
 date: '2026-10-03T19:16:11.619Z'
 tags:
-  - gameplay
+  - 游戏机制
 editor: markdown
 dateCreated: '2024-02-12T12:03:38.257Z'
 ---

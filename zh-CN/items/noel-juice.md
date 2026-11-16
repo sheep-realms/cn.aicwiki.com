@@ -4,11 +4,11 @@ description: 持有空瓶且诺艾儿漏出魔力或液体时自动获得。虽�
 published: true
 date: '2024-05-12T14:11:48.535Z'
 tags:
-  - item-water
-  - item-made-in-noel
-  - item
-  - item-calms-ep
-  - item-recovers-mp
+  - 液体
+  - 诺艾儿自产
+  - 物品
+  - 兴奋率相关
+  - 物品-recovers-mp
 editor: markdown
 dateCreated: '2024-05-04T16:10:45.794Z'
 ---

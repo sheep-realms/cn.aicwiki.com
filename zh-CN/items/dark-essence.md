@@ -4,9 +4,9 @@ description: 魔族被击败后掉落的带有粘性的液体。
 published: true
 date: '2025-07-15T02:29:03.351Z'
 tags:
-  - item
-  - item-food
-  - item-water
+  - 物品
+  - 食材
+  - 液体
 editor: markdown
 dateCreated: '2025-07-15T02:26:55.811Z'
 ---

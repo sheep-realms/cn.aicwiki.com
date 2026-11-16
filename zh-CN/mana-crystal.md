@@ -4,7 +4,7 @@ description: Alice In Cradle 魔力系统
 published: true
 date: '2026-03-21T18:18:00.494Z'
 tags:
-  - gameplay
+  - 游戏机制
 editor: markdown
 dateCreated: '2024-01-29T17:32:47.317Z'
 ---

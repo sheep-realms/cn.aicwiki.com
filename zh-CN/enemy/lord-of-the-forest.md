@@ -4,8 +4,8 @@ description: 栖息于森林的大型魔族。
 published: true
 date: '2026-04-01T15:00:43.866Z'
 tags:
-  - enemy
-  - enemy-boss
+  - 魔族
+  - BOSS魔族
 editor: markdown
 dateCreated: '2024-04-30T10:58:47.115Z'
 ---

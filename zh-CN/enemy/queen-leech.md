@@ -4,7 +4,7 @@ description: ''
 published: true
 date: '2026-04-11T15:10:34.101Z'
 tags:
-  - enemy
+  - 魔族
 editor: markdown
 dateCreated: '2026-03-30T20:04:21.635Z'
 ---

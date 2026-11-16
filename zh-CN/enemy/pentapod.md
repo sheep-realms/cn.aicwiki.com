@@ -4,7 +4,7 @@ description: 栖息在山中的魔族。其高悬在上方的头部会发射特�
 published: true
 date: '2026-03-27T11:34:53.343Z'
 tags:
-  - enemy
+  - 魔族
 editor: markdown
 dateCreated: '2026-03-27T10:54:52.346Z'
 ---

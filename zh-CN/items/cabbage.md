@@ -4,9 +4,9 @@ description: 拿来做沙拉会更好吃。
 published: true
 date: '2025-04-25T06:41:14.684Z'
 tags:
-  - item
-  - item-food
-  - item-vegetable
+  - 物品
+  - 食材
+  - 蔬菜
 editor: markdown
 dateCreated: '2024-01-29T19:06:08.868Z'
 ---
